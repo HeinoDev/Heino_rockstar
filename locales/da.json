@@ -1,0 +1,11 @@
+{
+  "menu_title": "Rockstar Editor",
+  "button_record": "Start Optagelse",
+  "button_saveclip": "Gem Optagelse",
+  "button_delclip": "Kassér Optagelse",
+  "button_editor": "Åbn Editor",
+  "notify_record": "Optagelse startet",
+  "notify_saveclip": "Optagelse gemt",
+  "notify_delclip": "Optagelse kasseret",
+  "notify_editor": "Åbner Rockstar Editor"
+}

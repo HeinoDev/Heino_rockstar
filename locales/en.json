@@ -1,0 +1,11 @@
+{
+  "menu_title": "Rockstar Editor",
+  "button_record": "Start Recording",
+  "button_saveclip": "Save Recording",
+  "button_delclip": "Discard Recording",
+  "button_editor": "Open Editor",
+  "notify_record": "Started recording",
+  "notify_saveclip": "Saved recording",
+  "notify_delclip": "Discarded recording",
+  "notify_editor": "Opening Rockstar Editor"
+}
